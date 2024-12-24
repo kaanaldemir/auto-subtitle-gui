@@ -5,4 +5,3 @@ auto_subtitle/__pycache__
 build
 pyinstaller.bat
 ffmpeg
-GUI.py
