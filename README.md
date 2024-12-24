@@ -2,23 +2,18 @@
 
 This repository uses `ffmpeg` and [OpenAI's Whisper](https://openai.com/blog/whisper) to automatically generate and overlay subtitles on any video.
 
-## Installation
 
-For this fork:
+## Installation for this fork:
 
     pip install git+https://github.com/kaanaldemir/auto-subtitle-gui.git
     pip install ffmpeg-python
-  
+    
+## Installation
+
 To get started, you'll need Python 3.7 or newer. Install the binary by running the following command:
 
     pip install git+https://github.com/m1guelpf/auto-subtitle.git
     
-For my fork:
-
-  
-
-
-
 You'll also need to install [`ffmpeg`](https://ffmpeg.org/), which is available from most package managers:
 
 ```bash
@@ -31,11 +26,6 @@ brew install ffmpeg
 # on Windows using Chocolatey (https://chocolatey.org/)
 choco install ffmpeg
 ```
-For my fork:
-
-   
-
-
 
 ## Usage
 
