@@ -7,6 +7,10 @@ This repository uses `ffmpeg` and [OpenAI's Whisper](https://openai.com/blog/whi
 
     pip install git+https://github.com/kaanaldemir/auto-subtitle-gui.git
     pip install ffmpeg-python
+
+After this you can run GUI.py to use this app.
+
+
     
 ## Installation
 
