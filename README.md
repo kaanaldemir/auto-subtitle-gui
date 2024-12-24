@@ -4,13 +4,18 @@ This repository uses `ffmpeg` and [OpenAI's Whisper](https://openai.com/blog/whi
 
 ## Installation
 
+For this fork:
+
+    pip install git+https://github.com/kaanaldemir/auto-subtitle-gui.git
+    pip install ffmpeg-python
+  
 To get started, you'll need Python 3.7 or newer. Install the binary by running the following command:
 
     pip install git+https://github.com/m1guelpf/auto-subtitle.git
     
 For my fork:
 
-    pip install git+https://github.com/kaanaldemir/auto-subtitle.git
+  
 
 
 
@@ -28,7 +33,7 @@ choco install ffmpeg
 ```
 For my fork:
 
-    pip install ffmpeg-python
+   
 
 
 
