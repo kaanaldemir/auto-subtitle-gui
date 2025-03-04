@@ -1,5 +1,6 @@
 # Automatic subtitles in your videos
 ![GUI Screenshot](https://github.com/kaanaldemir/auto-subtitle-gui/blob/main/GUI.png)
+
 This repository uses `ffmpeg` and [OpenAI's Whisper](https://openai.com/blog/whisper) to automatically generate and overlay subtitles on any video.
 
 
